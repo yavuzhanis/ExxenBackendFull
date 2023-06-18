@@ -12,8 +12,8 @@ Bu proje, HTML, CSS, JavaScript, Python ve Django kullanılarak oluşturulmuş b
 
 Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki gereksinimlere ihtiyacınız olacak:
 
-- Python 3.9.2 
-- Django 4.2.1
+- Python 3.9.13 BASE 
+- Django 4.2.2
 - Html-5
 - Css3
 - Javascript
